@@ -407,6 +407,9 @@ img {
     overflow: hidden;
     font-size: 1.6rem;
 }
+.entrada__texto-completo {
+    font-size: 2rem;
+}
 .entrada__enlace {
     margin-top: 2rem;
     display: block;
